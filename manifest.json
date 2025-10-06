@@ -1,6 +1,6 @@
 {
   "name": "XC",
-  "version": "1.0",
+  "version": "1.1",
   "manifest_version": 3,
   "description": "Xのいいね数などのエンゲージメント、左側メニューの一部、右側メニュー全てを非表示にします。",
   "content_scripts": [
