@@ -1,0 +1,24 @@
+[data-testid="trend"],/* 検索欄のトレンド */
+[data-testid="sidebarColumn"],/* 右側のメニュー色々 */
+
+[aria-label="アカウントメニュー"],
+[aria-label="Grok"],
+[aria-label="プレミアム"],
+[aria-label="認証済み組織"],
+[aria-label="コミュニティ"],
+[aria-label="リスト"],
+[data-testid="DMDrawerHeader"],
+[aria-label="X"], /* 左側メニューの一部 */
+
+[class="css-175oi2r r-13awgt0 r-18u37iz r-1w6e6rj"],/* プロフィールのフォロー数&フォロワー数 */
+[data-testid="reply"] span,
+[data-testid="retweet"] span,
+[data-testid="like"] span,
+[data-testid="bookmark"] span,  /* ↓押した際更新される数字の非表示 */
+[data-testid="app-text-transition-container"] {
+  display: none !important;
+}
+
+[href$="/analytics"] {
+  display: none !important;
+}/* インプレッション数 */
