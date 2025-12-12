@@ -1,6 +1,7 @@
 [data-testid="trend"],/* 検索欄のトレンド */
 [data-testid="sidebarColumn"],/* 右側のメニュー全て */
-[data-testid="GrokDrawerHeader"],/* 右下Grockボタン */
+[data-testid="GrokDrawerHeader"],/* 右下Grokボタン */
+[data-testid="chat-drawer-main"],/* 右下チャット機能ボタン */
 
 [aria-label="アカウントメニュー"],
 [aria-label="Grok"],
